@@ -3,7 +3,7 @@
 LeetCode 153: Find Minimum in Rotated Sorted Array
 Approach: Binary Search on Rotated Sorted Array
 Time Complexity: O(log n)
-Space Complexity: O(1)
+Space Complexity: O(1)  
 
 Given a sorted array nums of unique elements that has been rotated
 between 1 and n times, return the minimum element of this array.
